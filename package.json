@@ -1,0 +1,19 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abpanxianhui/hugotest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abpanxianhui/hugotest/issues"
+  },
+  "homepage": "https://github.com/abpanxianhui/hugotest#readme"
+}
